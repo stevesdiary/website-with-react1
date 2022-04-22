@@ -1,4 +1,4 @@
 {
    "editor.tabCompletion": "on",
-   "editor.suggest.showStatusBar": false
+   "editor.suggest.showStatusBar": true
 }
